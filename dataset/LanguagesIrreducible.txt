@@ -1,0 +1,20 @@
+Groovy
+Python
+PHP
+Lisp, Scheme
+Clojure
+Perl
+C++, Rust
+Go, D
+Kotlin
+Perl
+Prolog
+F#
+Assembly
+C#, Objective-C, Delphi/Object Pascal
+HTML
+MATLAB
+R
+COBOL, ABAP
+ActionScript
+COQ

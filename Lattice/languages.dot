@@ -1,0 +1,163 @@
+digraph G { 
+	rankdir=BT;
+0 [shape=record,style=filled,fillcolor=lightblue,label="{0 (I: 0, E: 43)||Python\nJava\nC++\nJavaScript\nC#\nRuby\nSwift\nGo\nPHP\nTypeScript\nRust\nKotlin\nPerl\nHTML\nMATLAB\nR\nDart\nLua\nHaskell\nObjective-C\nGroovy\nShell (Bash)\nCOBOL\nFortran\nLisp\nAda\nProlog\nJulia\nClojure\nAssembly\nErlang\nTcl\nF#\nD\nScheme\nActionScript\nDart\nPerl\nSmalltalk\nDelphi/Object Pascal\nCOQ\nABAP\nObjective-J\n}"];
+1 [shape=record,style=filled,fillcolor=lightblue,label="{1 (I: 1, E: 33)|Open Source\n|Python\nJava\nC++\nJavaScript\nRuby\nSwift\nGo\nPHP\nTypeScript\nRust\nKotlin\nPerl\nR\nDart\nLua\nHaskell\nGroovy\nShell (Bash)\nFortran\nLisp\nProlog\nJulia\nClojure\nErlang\nTcl\nF#\nD\nScheme\nDart\nPerl\nSmalltalk\nCOQ\nObjective-J\n}"];
+2 [shape=record,style=filled,fillcolor=lightblue,label="{2 (I: 2, E: 15)|Open Source\nOrienté Objet\n|Python\nJava\nC++\nRuby\nSwift\nPHP\nTypeScript\nRust\nKotlin\nPerl\nGroovy\nF#\nPerl\nSmalltalk\nObjective-J\n}"];
+3 [shape=record,style=filled,fillcolor=lightblue,label="{3 (I: 1, E: 19)|Orienté Objet\n|Python\nJava\nC++\nC#\nRuby\nSwift\nPHP\nTypeScript\nRust\nKotlin\nPerl\nObjective-C\nGroovy\nF#\nActionScript\nPerl\nSmalltalk\nDelphi/Object Pascal\nObjective-J\n}"];
+4 [shape=record,style=filled,fillcolor=lightblue,label="{4 (I: 3, E: 3)|Open Source\nOrienté Objet\nFonctionnel\n|Kotlin\nGroovy\nF#\n}"];
+5 [shape=record,style=filled,label="{5 (I: 2, E: 7)|Open Source\nFonctionnel\n|Kotlin\nHaskell\nGroovy\nLisp\nClojure\nF#\nScheme\n}"];
+6 [shape=record,style=filled,label="{6 (I: 4, E: 2)|Open Source\nOrienté Objet\nFonctionnel\nImpératif\n|Groovy\nF#\n}"];
+7 [shape=record,style=filled,fillcolor=orange,label="{7 (I: 3, E: 11)|Open Source\nOrienté Objet\nImpératif\n|Java\nC++\nSwift\nPHP\nTypeScript\nRust\nPerl\nGroovy\nF#\nPerl\nSmalltalk\n}"];
+8 [shape=record,style=filled,fillcolor=lightblue,label="{8 (I: 3, E: 5)|Open Source\nFonctionnel\nImpératif\n|Groovy\nLisp\nClojure\nF#\nScheme\n}"];
+9 [shape=record,style=filled,fillcolor=orange,label="{9 (I: 2, E: 23)|Open Source\nImpératif\n|Java\nC++\nSwift\nGo\nPHP\nTypeScript\nRust\nPerl\nLua\nGroovy\nShell (Bash)\nFortran\nLisp\nProlog\nJulia\nClojure\nErlang\nTcl\nF#\nD\nScheme\nPerl\nSmalltalk\n}"];
+10 [shape=record,style=filled,fillcolor=orange,label="{10 (I: 2, E: 14)|Orienté Objet\nImpératif\n|Java\nC++\nC#\nSwift\nPHP\nTypeScript\nRust\nPerl\nObjective-C\nGroovy\nF#\nPerl\nSmalltalk\nDelphi/Object Pascal\n}"];
+11 [shape=record,style=filled,fillcolor=lightblue,label="{11 (I: 1, E: 31)|Impératif\n|Java\nC++\nC#\nSwift\nGo\nPHP\nTypeScript\nRust\nPerl\nMATLAB\nLua\nObjective-C\nGroovy\nShell (Bash)\nCOBOL\nFortran\nLisp\nAda\nProlog\nJulia\nClojure\nAssembly\nErlang\nTcl\nF#\nD\nScheme\nPerl\nSmalltalk\nDelphi/Object Pascal\nABAP\n}"];
+12 [shape=record,style=filled,label="{12 (I: 6, E: 1)|Open Source\nOrienté Objet\nFonctionnel\nImpératif\nScript\nPopulaire\n|Groovy\n}"];
+13 [shape=record,style=filled,label="{13 (I: 4, E: 3)|Open Source\nOrienté Objet\nImpératif\nScript\n|Perl\nGroovy\nPerl\n}"];
+14 [shape=record,style=filled,fillcolor=orange,label="{14 (I: 3, E: 6)|Open Source\nOrienté Objet\nScript\n|Python\nRuby\nPerl\nGroovy\nPerl\nObjective-J\n}"];
+15 [shape=record,style=filled,label="{15 (I: 5, E: 2)|Open Source\nFonctionnel\nImpératif\nScript\nPopulaire\n|Groovy\nClojure\n}"];
+16 [shape=record,style=filled,fillcolor=orange,label="{16 (I: 3, E: 7)|Open Source\nImpératif\nScript\n|Perl\nLua\nGroovy\nShell (Bash)\nClojure\nTcl\nPerl\n}"];
+17 [shape=record,style=filled,fillcolor=orange,label="{17 (I: 2, E: 13)|Open Source\nScript\n|Python\nJavaScript\nRuby\nPerl\nDart\nLua\nGroovy\nShell (Bash)\nClojure\nTcl\nDart\nPerl\nObjective-J\n}"];
+18 [shape=record,style=filled,label="{18 (I: 2, E: 7)|Orienté Objet\nScript\n|Python\nRuby\nPerl\nGroovy\nActionScript\nPerl\nObjective-J\n}"];
+19 [shape=record,style=filled,fillcolor=orange,label="{19 (I: 2, E: 9)|Impératif\nScript\n|Perl\nLua\nGroovy\nShell (Bash)\nCOBOL\nClojure\nTcl\nPerl\nABAP\n}"];
+20 [shape=record,style=filled,fillcolor=lightblue,label="{20 (I: 1, E: 17)|Script\n|Python\nJavaScript\nRuby\nPerl\nHTML\nDart\nLua\nGroovy\nShell (Bash)\nCOBOL\nClojure\nTcl\nActionScript\nDart\nPerl\nABAP\nObjective-J\n}"];
+21 [shape=record,style=filled,label="{21 (I: 4, E: 2)|Open Source\nOrienté Objet\nFonctionnel\nPopulaire\n|Kotlin\nGroovy\n}"];
+22 [shape=record,style=filled,label="{22 (I: 5, E: 2)|Open Source\nOrienté Objet\nImpératif\nScript\nPopulaire\n|Groovy\nPerl\n}"];
+23 [shape=record,style=filled,fillcolor=orange,label="{23 (I: 4, E: 5)|Open Source\nOrienté Objet\nImpératif\nPopulaire\n|Java\nPHP\nTypeScript\nGroovy\nPerl\n}"];
+24 [shape=record,style=filled,fillcolor=lightblue,label="{24 (I: 4, E: 3)|Open Source\nOrienté Objet\nScript\nPopulaire\n|Python\nGroovy\nPerl\n}"];
+25 [shape=record,style=filled,fillcolor=lightblue,label="{25 (I: 3, E: 7)|Open Source\nOrienté Objet\nPopulaire\n|Python\nJava\nPHP\nTypeScript\nKotlin\nGroovy\nPerl\n}"];
+26 [shape=record,style=filled,fillcolor=lightblue,label="{26 (I: 4, E: 4)|Open Source\nFonctionnel\nImpératif\nPopulaire\n|Groovy\nLisp\nClojure\nScheme\n}"];
+27 [shape=record,style=filled,fillcolor=lightblue,label="{27 (I: 3, E: 5)|Open Source\nFonctionnel\nPopulaire\n|Kotlin\nGroovy\nLisp\nClojure\nScheme\n}"];
+28 [shape=record,style=filled,label="{28 (I: 4, E: 4)|Open Source\nImpératif\nScript\nPopulaire\n|Groovy\nShell (Bash)\nClojure\nPerl\n}"];
+29 [shape=record,style=filled,label="{29 (I: 3, E: 13)|Open Source\nImpératif\nPopulaire\n|Java\nGo\nPHP\nTypeScript\nGroovy\nShell (Bash)\nFortran\nLisp\nProlog\nClojure\nD\nScheme\nPerl\n}"];
+30 [shape=record,style=filled,label="{30 (I: 3, E: 6)|Open Source\nScript\nPopulaire\n|Python\nJavaScript\nGroovy\nShell (Bash)\nClojure\nPerl\n}"];
+31 [shape=record,style=filled,fillcolor=lightblue,label="{31 (I: 2, E: 16)|Open Source\nPopulaire\n|Python\nJava\nJavaScript\nGo\nPHP\nTypeScript\nKotlin\nGroovy\nShell (Bash)\nFortran\nLisp\nProlog\nClojure\nD\nScheme\nPerl\n}"];
+32 [shape=record,style=filled,label="{32 (I: 2, E: 15)|Impératif\nPopulaire\n|Java\nGo\nPHP\nTypeScript\nGroovy\nShell (Bash)\nFortran\nLisp\nAda\nProlog\nClojure\nAssembly\nD\nScheme\nPerl\n}"];
+33 [shape=record,style=filled,fillcolor=lightblue,label="{33 (I: 1, E: 18)|Populaire\n|Python\nJava\nJavaScript\nGo\nPHP\nTypeScript\nKotlin\nGroovy\nShell (Bash)\nFortran\nLisp\nAda\nProlog\nClojure\nAssembly\nD\nScheme\nPerl\n}"];
+34 [shape=record,style=filled,fillcolor=lightblue,label="{34 (I: 10, E: 0)|Open Source\nOrienté Objet\nFonctionnel\nImpératif\nScript\nPopulaire\nScript pour Web\nLangage de Système\nLangage de Calcul Scientifique\nLangage de Programmation Logique\n|}"];
+35 [shape=record,style=filled,label="{35 (I: 5, E: 1)|Open Source\nOrienté Objet\nImpératif\nPopulaire\nScript pour Web\n|PHP\n}"];
+36 [shape=record,style=filled,label="{36 (I: 2, E: 1)|Script\nScript pour Web\n|HTML\n}"];
+37 [shape=record,style=filled,fillcolor=lightblue,label="{37 (I: 1, E: 2)|Script pour Web\n|PHP\nHTML\n}"];
+38 [shape=record,style=filled,fillcolor=orange,label="{38 (I: 4, E: 2)|Open Source\nOrienté Objet\nImpératif\nLangage de Système\n|C++\nRust\n}"];
+39 [shape=record,style=filled,fillcolor=orange,label="{39 (I: 4, E: 2)|Open Source\nImpératif\nPopulaire\nLangage de Système\n|Go\nD\n}"];
+40 [shape=record,style=filled,fillcolor=lightblue,label="{40 (I: 3, E: 4)|Open Source\nImpératif\nLangage de Système\n|C++\nGo\nRust\nD\n}"];
+41 [shape=record,style=filled,label="{41 (I: 3, E: 3)|Impératif\nPopulaire\nLangage de Système\n|Go\nAssembly\nD\n}"];
+42 [shape=record,style=filled,fillcolor=lightblue,label="{42 (I: 2, E: 5)|Impératif\nLangage de Système\n|C++\nGo\nRust\nAssembly\nD\n}"];
+43 [shape=record,style=filled,label="{43 (I: 5, E: 1)|Open Source\nOrienté Objet\nScript\nPopulaire\nLangage de Calcul Scientifique\n|Python\n}"];
+44 [shape=record,style=filled,label="{44 (I: 2, E: 2)|Open Source\nLangage de Calcul Scientifique\n|Python\nR\n}"];
+45 [shape=record,style=filled,label="{45 (I: 2, E: 1)|Impératif\nLangage de Calcul Scientifique\n|MATLAB\n}"];
+46 [shape=record,style=filled,fillcolor=lightblue,label="{46 (I: 1, E: 3)|Langage de Calcul Scientifique\n|Python\nMATLAB\nR\n}"];
+47 [shape=record,style=filled,fillcolor=orange,label="{47 (I: 5, E: 2)|Open Source\nFonctionnel\nImpératif\nPopulaire\nLangage de Programmation Logique\n|Lisp\nScheme\n}"];
+48 [shape=record,style=filled,label="{48 (I: 4, E: 3)|Open Source\nImpératif\nPopulaire\nLangage de Programmation Logique\n|Lisp\nProlog\nScheme\n}"];
+49 [shape=record,style=filled,label="{49 (I: 2, E: 4)|Open Source\nLangage de Programmation Logique\n|Lisp\nProlog\nScheme\nCOQ\n}"];
+	1 -> 0
+	2 -> 1
+	2 -> 3
+	3 -> 0
+	4 -> 2
+	4 -> 5
+	5 -> 1
+	6 -> 4
+	6 -> 7
+	6 -> 8
+	7 -> 2
+	7 -> 9
+	7 -> 10
+	8 -> 5
+	8 -> 9
+	9 -> 1
+	9 -> 11
+	10 -> 3
+	10 -> 11
+	11 -> 0
+	12 -> 6
+	12 -> 15
+	12 -> 21
+	12 -> 22
+	13 -> 7
+	13 -> 14
+	13 -> 16
+	14 -> 2
+	14 -> 17
+	14 -> 18
+	15 -> 26
+	15 -> 28
+	16 -> 9
+	16 -> 17
+	16 -> 19
+	17 -> 1
+	17 -> 20
+	18 -> 3
+	18 -> 20
+	19 -> 11
+	19 -> 20
+	20 -> 0
+	21 -> 4
+	21 -> 25
+	21 -> 27
+	22 -> 13
+	22 -> 23
+	22 -> 24
+	22 -> 28
+	23 -> 7
+	23 -> 25
+	23 -> 29
+	24 -> 14
+	24 -> 25
+	24 -> 30
+	25 -> 2
+	25 -> 31
+	26 -> 8
+	26 -> 27
+	26 -> 29
+	27 -> 5
+	27 -> 31
+	28 -> 16
+	28 -> 29
+	28 -> 30
+	29 -> 9
+	29 -> 31
+	29 -> 32
+	30 -> 17
+	30 -> 31
+	31 -> 1
+	31 -> 33
+	32 -> 11
+	32 -> 33
+	33 -> 0
+	34 -> 12
+	34 -> 35
+	34 -> 36
+	34 -> 38
+	34 -> 39
+	34 -> 43
+	34 -> 45
+	34 -> 47
+	35 -> 23
+	35 -> 37
+	36 -> 20
+	36 -> 37
+	37 -> 0
+	38 -> 7
+	38 -> 40
+	39 -> 29
+	39 -> 40
+	39 -> 41
+	40 -> 9
+	40 -> 42
+	41 -> 32
+	41 -> 42
+	42 -> 11
+	43 -> 24
+	43 -> 44
+	44 -> 1
+	44 -> 46
+	45 -> 11
+	45 -> 46
+	46 -> 0
+	47 -> 26
+	47 -> 48
+	48 -> 29
+	48 -> 49
+	49 -> 1
+}
