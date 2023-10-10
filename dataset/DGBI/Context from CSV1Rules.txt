@@ -1,0 +1,5 @@
+<1> Populaire,Langage Scientifique => Open Source,Orienté Objet,Script
+<1> Script,Langage Scientifique => Open Source,Orienté Objet,Populaire
+<1> Orienté Objet,Langage Scientifique => Open Source,Script,Populaire
+<1> Open Source,Fonctionnel,Langage Mobile => Orienté Objet,Populaire
+<1> Open Source,Orienté Objet,Fonctionnel,Impératif,Populaire => Script

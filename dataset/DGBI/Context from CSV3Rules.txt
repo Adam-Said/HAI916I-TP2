@@ -1,0 +1,5 @@
+<3> Populaire,Langage Web => Open Source
+<3> Orienté Objet,Impératif,Script => Open Source
+<3> Open Source,Langage Web => Populaire
+<3> Open Source,Populaire,Langage de Programmation Logique => Impératif
+<3> Open Source,Impératif,Langage de Programmation Logique => Populaire

@@ -1,0 +1,7 @@
+<2> Impératif,Langage Web => Open Source,Orienté Objet,Populaire
+<2> Orienté Objet,Langage Web => Open Source,Impératif,Populaire
+<2> Orienté Objet,Impératif,Langage de Système => Open Source
+<2> Open Source,Populaire,Langage Mobile => Orienté Objet
+<2> Open Source,Impératif,Langage Mobile => Orienté Objet
+<2> Open Source,Fonctionnel,Langage de Programmation Logique => Impératif,Populaire
+<2> Open Source,Fonctionnel,Script => Impératif,Populaire
